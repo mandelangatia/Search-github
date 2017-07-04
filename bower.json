@@ -1,0 +1,22 @@
+{
+  "name": "githubuseruplook",
+  "description": "a website where users may enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories.",
+  "main": "index.js",
+  "authors": [
+    "Mandela Ngatia"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/mandelangatia/Github-User-Lookup",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1",
+    "moment": "^2.18.1"
+  }
+}
