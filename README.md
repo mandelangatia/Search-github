@@ -10,7 +10,7 @@ Create a website where users may enter a GitHub username into a form, submit it,
 
 ## Setup
 
-$ git clone <https://github.com/mandelangatia/Github-User-Lookup> to your project file <br>
+$ git clone <https://github.com/mandelangatia/Search-github.git> to your project file <br>
 $ cd GitHub-User-Lookup <br>
 $ npm install<br>
 $ bower install<br>
